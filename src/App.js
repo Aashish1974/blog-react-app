@@ -9,6 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>function Called</h1>
+        <h2>hello hello hello</h2>
         <Profile />
       </header>
     </div>
